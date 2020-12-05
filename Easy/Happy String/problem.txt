@@ -1,0 +1,29 @@
+Happy String ( 4 XP )
+
+A happy string is a string in which each character is lexicographically greater than its next character. You are given a positive integer N as an input. You need to print the smallest lexicographical string possible of length N.
+
+NOTE: All characters in a happy string are in lowercase.
+
+
+Input
+
+A single integer N.
+
+	Sample Input:
+
+		2
+
+
+Output
+
+Print the lexicographically smallest string of length N.
+
+	Sample 0utput:
+
+		ba
+
+
+Constraints
+
+	1 <= N <= 26
+

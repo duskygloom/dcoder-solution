@@ -1,0 +1,29 @@
+Project Teams ( 5 XP )
+
+There are N students in a class and Teacher wants to divide these students into some groups. Teacher told that groups consisting of two or less students not allowed, so Teacher want to have as many groups consisting of three or more students as possible.
+
+Divide the students so that the number of groups consisting of three or more students 1is maximized.
+
+
+Input
+
+Single integer N
+
+	Sample Input:
+
+		6
+
+
+Output
+
+Maximum number of groups can be formed
+
+	Sample Output:
+
+		2
+
+
+Constraints
+
+	1 <= N < 100000
+

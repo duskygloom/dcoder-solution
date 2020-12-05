@@ -1,0 +1,29 @@
+Circle of Numbers ( 6 XP )
+
+All numbers in NumberLand are standing in a circle for a dancing ceremony. Every number needs a dancing partner. Dancing partner of any number is the number which is standing radially opposite to it in the circle. The numbers are from b to N-1. A certain number X wants to know who will be its dancing partner. Please help X.
+
+
+Input
+
+Two positive integers denoting the value of N and X.
+
+	Sample Input:
+
+		8 2
+
+
+Output
+
+Print the number radially opposite to X in a circle of N numbers.
+
+	Sample Output:
+
+		6
+
+
+Constraints
+
+	4 <= N <= 20
+
+	6 <= X <= N
+
