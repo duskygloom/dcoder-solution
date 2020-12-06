@@ -1,0 +1,27 @@
+Degree Celsius ( 4 XP )
+
+Tom is a scientist. He uses huge machines for complex calculations. There is a problem, the machines takes input as Fahrenheit and Tom has the temperatures in Degree Celsius. As he is busy with his work, he asks your help to convert Degree Celsius to Fahrenheit.
+
+
+Input
+
+The first and only line of the input consists of a single integer T denoting temperature in Degree Celsius.
+
+	Sample Input:
+
+		100
+
+
+Output
+
+Print an integer denoting temperature in Fahrenheit.
+
+	Sample Output:
+
+		212
+
+
+Constraints
+
+	0 <= T <= 1000
+
