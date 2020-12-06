@@ -1,0 +1,32 @@
+Change in Case ( 6 XP )
+
+You will be given a single string and two positive integers denoting indices. You need to change the case of the characters at those indices, i.e change uppercase to lowercase and lowercase to uppercase. It is guaranteed that all characters in the string are alphabets.
+
+
+Input
+
+The first line contains N, the length of string. The next line contains a single string. Two integers, x and y, in next line separated by space.
+
+	Sample Input:
+
+		6
+
+		Dcoder
+
+		0 3
+
+
+Output
+
+Print the string after altering the case of characters at those indices.
+
+	Sample 0utput:
+
+		dcoDer
+
+
+Constraints
+
+	1 <= string.length <= 40
+	0 <= x, y <= string.length
+
