@@ -1,0 +1,31 @@
+Three's Company ( 4 XP )
+
+This problem requires you to create a output string from input string such that for every character in input string, there are three same characters in output string.
+
+
+Input
+
+First line contains N, the number of letters in the string.
+
+The next line contains the string.
+
+	Sample Input:
+
+		5
+
+		Hello
+
+
+Output
+
+Print the output_string.
+
+	Sample Output:
+
+		HHHeeellllllooo
+
+
+Constraints
+
+	1 <= N <= 20
+
