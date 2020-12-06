@@ -1,0 +1,30 @@
+Extraction of Numbers ( 6 XP )
+
+Ron is schizophrenic and sees random digits hidden in words. He thinks it means something and someone is trying to secretly communicate with him. He wants to extract those digits from the words and see if they form a message. Harry really wants to help him but couldn't think of a way. But, Harry finally realized that if he somehow helps Ron in extracting those digits, Ron will finally realize that they don't mean anything and are just his delusions. He asked Ron to write down all the words that he sees. Help Harry by extracting the digits from these words.
+
+
+Input
+
+First 1ine contains N, the number of words. Next line contains N space-separated words.
+
+	Sample Input:
+
+		3
+
+		1 LOv3 Dcoder
+
+
+Output
+
+Print the all the extracted digits separated by a space.
+
+	Sample Output:
+
+		1 0 3
+
+
+Constraints
+
+	1 <= N <= 50
+	It is guaranteed that at least one digit will be present in the entire input.
+
