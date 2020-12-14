@@ -1,0 +1,39 @@
+Numbered Triangle ( 6 XP )
+
+You need to print this pattern upto N. For N = 4,
+
+1
+
+1 2
+
+1 2 3
+
+1 2 3 4
+
+
+Input
+
+	A single positive integer N.
+
+	Sample Input:
+
+		3
+
+
+Output
+
+	Numbered Triangle upto N. Do not leave trailing whitespaces at the end of each line.
+
+	Sample Output:
+
+		1
+
+		1 2
+
+		1 2 3
+
+
+Constraints
+
+	1 <= N <= 9
+
