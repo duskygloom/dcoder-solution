@@ -1,0 +1,27 @@
+Archie and his Homework ( 6 XP )
+
+Archie was given a homework by his teacher. He is given a fraction and he needs to write it in its reduced form, Archie is not good at Maths, help Archie finish his homework.
+
+
+Input
+
+	2 integers separated by space denoting the numerator and denominator respectively.
+
+	Sample Input:
+
+		20 40
+
+
+Output
+
+	Print the reduced form of the fraction.
+
+	Sample Output:
+
+		1 2
+
+
+Constraints
+
+	1 <= N <= D <= 1000
+
