@@ -1,0 +1,35 @@
+The Homework ( 3 XP )
+
+As the students were not focusing much on the lecture, the professor became very angry and decided to give a homework to all the students. So some of the students started trying to convince the professor not to do so. So the professor gives them a K digits and asks the students to make the largest number possible from these digits. If they able to do it, they don't need to do the homework. So you being the smartest student decided to solve the problem.
+
+
+Input
+
+The first line of input consists of single integer T denoting the number of test cases. The first line of each test case has a single integer K. The second line of each test case consists of K space separated integers denoting K digits.
+
+	Sample Input:
+
+		1
+
+		5
+
+		1 4 5 9 2
+
+
+Output
+
+Print the largest number possible using these digits.
+
+	Sample 0utput:
+
+		95421
+
+
+Constraints
+
+	1 <= T <= 100.
+
+	1 <= K <= 100.
+
+	B <= Digits <= 9.
+
