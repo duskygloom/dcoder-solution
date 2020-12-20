@@ -1,0 +1,24 @@
+Problem Statement ( 10 XP )
+You will be given a group of words. You need to print all unique words in that group in descending order of their frequency, i.e the word repeated most number of times will come first. In case of two words having the same frequency, the word listed earlier in the group will be printed first.
+
+
+Input
+First line contains N, the number of words. Next line contains N space-separated words.
+
+Sample Input
+
+12
+can you can a can as a canner can can a can
+
+
+Output
+Print the words in descending order of their frequency
+
+Sample Output
+
+can a you as canner
+
+
+Constraints
+1 ≤ N ≤ 20
+1 ≤ word[i].length ≤ 40
