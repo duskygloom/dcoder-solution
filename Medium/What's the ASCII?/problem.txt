@@ -1,0 +1,22 @@
+Problem Statement
+You will be given a character having ASCII Code between 33 to 127. You need to print the ASCII Code of the character.
+
+
+Input
+A single character.
+
+Sample Input
+
+A
+
+
+Output
+Print the ASCII Code of the character in decimal form.
+
+Sample Output
+
+65
+
+
+Constraints
+Character will have ASCII code between 33 and 127.
