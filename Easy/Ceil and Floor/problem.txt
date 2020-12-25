@@ -17,7 +17,7 @@ Print two integer denoting ceil and floor of the given number respectively.
 
 Constraints:
 
-1<=X<=100
+1 <= X <= 100
 
 
 Sample Input:
